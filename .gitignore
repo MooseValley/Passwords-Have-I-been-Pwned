@@ -1,21 +1,22 @@
-
+/00 - Info, articles
 /00 - Work Files
+/00*
 /Articles
 /ASGS
 /banners
 /Change Requests
 /Data Issues Dashboard
 /Data Snapshots
-/Data snapshots
 /Downloads
 /Downloads_Test
 /Emails
 /Emails and Tickets
+/Emoji*
 /Error Logs
 /ET - TAS - Audio only
-/Other
 /Excel
 /File Permissions
+/Font
 /Format - v2
 /icons
 /Java Dialogs - get focus/
@@ -29,16 +30,21 @@
 /Meetings
 /moods
 /NDIS Guides
+/NEW - to be added
 /OLD
 /Old, Superceeded
 /Other
+/Other
 /Outputs
+/Pics
+/pics
 /Primes*
 /Ramon - GL Codes Cheat Sheet
 /Ramon's Sample Files*
 /Reference Files
 /Reference Files - OLD
 /Rollout
+/samples
 /Screen Shots
 /Screen Shots
 /Sounds
@@ -53,22 +59,19 @@
 /TEST - OLD
 /TEST*
 /Tickets
-/Trid
 /Top 10
 /TRACCS DSS DEX
+/Trid
 /Tweak Files
 /User Security settings COPY User1 to User2/OLD
 /XML*
-/Pics
-/pics
 /Yahtzee - Delphi
 /Yahtzee - info
-/00 - Info, articles
 
 
 #*.html
-#*run*.bat
 #*Run*.bat
+#*run*.bat
 *- v*.jar
 *.7z
 *.class
@@ -80,6 +83,8 @@
 *.jpg
 *.lnk
 *.lst
+*.ppt
+*.pptx
 *.png
 *.xls
 *.xlsx
@@ -88,6 +93,8 @@
 *00 - Merge ALL*.bat
 *00 - Merge ALL*.txt
 *_v*.jar
+*HighScoreTable.txt
+*log*.txt
 *log.txt
 *passwords*.txt
 *proguard*.*
@@ -119,14 +126,14 @@ Class Summaries - UML Class Diagrams.txt
 clients - 100 test data clients.txt
 DSS_DEX__Lookup__Code_List - sorted.txt
 End_User_File_Lister_Updater - Benchmark*.txt
-error_log*.txt
 Error*.txt
 error*.txt
+error_log*.txt
 GL Codes.txt
-html.txt
 HighScoreTable.txt
-*HighScoreTable.txt
 HighScoreTableGUI*.*
+html.txt
+keywords*.txt
 NDISPriceGuideRecord.txt
 NDISServiceBookingsController.java.txt
 New Text Document.txt
@@ -134,6 +141,4 @@ PaymentReceiptSystem - notes, updates, TO DO.txt
 PaymentReceiptSystem__ERROR_LOG.txt
 problem emails analysis.txt
 quotes*.txt
-Results tab.txt
-*log*.txt
-
+Results*.txt
