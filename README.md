@@ -4,8 +4,8 @@
 * Author:  Mike "Moose" OMalley
 * Email:   Moose UNDERSCORE Software AT yahoo DOT com DOT au
 * WEB:     https://rebrand.ly/MoosesSoftware
-* Date:    24-Jan-2021
-* License: Copyleft 2021.
+* Last Updated:    24-Jan-2021
+* License: MIT License.
            Free for any person, company, or business to use.
            This comment block at the top of this file *must* remain intact.
 
