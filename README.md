@@ -16,7 +16,7 @@
 
 ## Step 1: Download
 * Make sure the Java Development Kit (JDK) installed on your machine, http://www.oracle.com/technetwork/java/javase/downloads/index.html
-* Download the "Passwords - Have I been Pwned" source code using any of the links on my web page.
+* Download the "Passwords - Have I been Pwned" source code. i.e. this Github Repo.
 
 
 ## Step 2: Setup
