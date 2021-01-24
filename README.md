@@ -1,4 +1,4 @@
-#Passwords - Have I been Pwned
+# Passwords - Have I been Pwned
 
 * Source:  Passwords__Have_I_Been_Pwned.java
 * Author:  Mike "Moose" OMalley
@@ -13,19 +13,22 @@
 * Requirements: Java Development Kit (JDK) installed on your machine.
                 http://www.oracle.com/technetwork/java/javase/downloads/index.html
 
-Step 1. Edit: Passwords__Have_I_Been_Pwned.java
+## Step 1. Edit: Passwords__Have_I_Been_Pwned.java
 * Scroll down and enter your passwords in the PASSWORDS_ARRAY.
 * Examples included below.  Enter your passwords in double quotes and comma separated.
 * Save the changes.
 
-Step 2: Open a command prompt and navigate to the directory
-where Passwords__Have_I_Been_Pwned.java is saved
-and compile and then run.
+
+## Step 2: Open a command prompt and navigate to the directory
+
+* Compile and then run Java source code.
 
 To compile, enter this command:
+
    javac Passwords__Have_I_Been_Pwned.java
 
 To run, enter this command:
+
    java Passwords__Have_I_Been_Pwned
 
 Or, for Windows users, I have included a .BAT command files:
@@ -34,12 +37,14 @@ Or, for Windows users, I have included a .BAT command files:
    Passwords__Have_I_Been_Pwned__Run_JAR_and_Show_Console_Window.bat
 
 which contains the compile and run commands.
-Just double click on them to compile and run the java program.
-NOTE: you will need to edit the directory paths in the .BAT file
+
+Just double click on each BAT file to compile and run the java program.
+
+NOTE: you may need to edit the directory paths in the .BAT file
 to suit your Java installation.
 
 
-*** Sample Output:
+## Sample Output:
 
 ---------------------------------------
 Have I Been Pwned Password Check:
