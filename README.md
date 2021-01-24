@@ -13,13 +13,25 @@
 * Requirements: Java Development Kit (JDK) installed on your machine.
                 http://www.oracle.com/technetwork/java/javase/downloads/index.html
 
-## Step 1. Edit: Passwords__Have_I_Been_Pwned.java
+
+## Step 1: Download
+* Make sure the Java Development Kit (JDK) installed on your machine, http://www.oracle.com/technetwork/java/javase/downloads/index.html
+* Download the "Passwords - Have I been Pwned" source code using any of the links on my web page.
+
+
+## Step 2: Setup
+* Edit: Passwords__Have_I_Been_Pwned.java
 * Scroll down and enter your passwords in the PASSWORDS_ARRAY.
 * Examples included below.  Enter your passwords in double quotes and comma separated.
 * Save the changes.
+* Recommend you do a test Compile and Run with the original source code first,
+just to make sure Java is setup correctly on your machine.
 
 
-## Step 2: Open a command prompt and navigate to the directory
+## Step 3: Compile and Run
+
+* Open a command prompt and navigate to the directory where the "Passwords__Have_I_Been_Pwned.java"
+source code is.
 
 * Compile and then run Java source code.
 
