@@ -20,12 +20,12 @@
 
 
 ## Step 2: Setup
+* Recommend you do a test Compile and Run with the original source code first,
+just to make sure Java is setup correctly on your machine.
 * Edit: Passwords__Have_I_Been_Pwned.java
 * Scroll down and enter your passwords in the PASSWORDS_ARRAY.
 * Examples included below.  Enter your passwords in double quotes and comma separated.
 * Save the changes.
-* Recommend you do a test Compile and Run with the original source code first,
-just to make sure Java is setup correctly on your machine.
 
 
 ## Step 3: Compile and Run
@@ -36,18 +36,20 @@ source code is.
 * Compile and then run Java source code.
 
 To compile, enter this command:
-
+```
    javac Passwords__Have_I_Been_Pwned.java
+```
 
 To run, enter this command:
-
+```
    java Passwords__Have_I_Been_Pwned
+```
 
 Or, for Windows users, I have included a .BAT command files:
-
+```
    Passwords__Have_I_Been_Pwned__Compile.bat
    Passwords__Have_I_Been_Pwned__Run_JAR_and_Show_Console_Window.bat
-
+```
 which contains the compile and run commands.
 
 Just double click on each BAT file to compile and run the java program.
@@ -58,6 +60,7 @@ to suit your Java installation.
 
 ## Sample Output:
 
+```
 ---------------------------------------
 Have I Been Pwned Password Check:
 ---------------------------------------
@@ -71,7 +74,7 @@ Have I Been Pwned Password Check:
   6.   N    abcd1234.zxc
 
 *** WARNING: YOU HAVE BEEN PWNED 5 times !!! :(
-
+```
 
 Any questions, comments, feedback, please let me know.  :)
 
